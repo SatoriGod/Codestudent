@@ -1,0 +1,29 @@
+4. YA.HTML
+‹HTML>
+<HEAD>
+<TITLE>Я</TITLE>
+</HEAD>
+<BODY>
+<div align="center"><b><font size="4" color="#3d3dd5"> A теперь о себе</font></b></div>
+<br>
+<TABLE BORDER>
+<TR>
+<TD ALIGN="center"> Фамилия</TD>
+<TD ALIGN="center"> Имя</TD>
+<TD ALIGN="center"> Отчество</TD>
+<TD Align="center"> Дата рождения</TD>
+<TD ALIGN="center"> Будущая профессия< ID>
+<TD ALIGN="center"> Номер группы</TD>
+</TR>
+<TR>
+<TD ALIGN="center"> Иванов</TD>
+<TD ALIGN="center"> Иван</TD>
+<TD ALIGN="center"> Иванович</TD>
+<ID Align="center"> 25.09.1996</TD>
+<TD ALIGN="center"> Слесарь</TD>
+<TD ALIGN="center">22</TD>
+<TR>
+< TABLE >
+<br><br>
+<BODY>
+</HTML>
